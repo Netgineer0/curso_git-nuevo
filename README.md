@@ -14,7 +14,7 @@
 **git config --global core.autocrlf true** # Manejo de saltos de línea en Windows \
 
 
-###Crear repositorios
+##Crear repositorios
 
 **git init**                         # Inicializa un repositorio en la carpeta actual\
 **git status**                       # Muestra estado de los archivos\
