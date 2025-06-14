@@ -45,10 +45,12 @@ Muestra línea por línea qué ha cambiado entre dos versiones de un archivo o c
 
 ### Cambios en las líneas de los archivos
 Sirve para mostrar las diferencias palabra por palabra, en lugar de línea por línea. Es muy útil cuando los cambios son pequeños y dentro de la misma línea
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/9_git.png)
 
 ### Modificar y deshacer commits
 Para entender de forma más clara este subtema. Fue necesario realizar otro repositorio, y hacer modificaciones dentro del archivo, se agregaron 5 commits. A continuación, se muestra el procedimiento que se siguió 
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/10_git.png)
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/11_git.png)
 
