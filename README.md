@@ -162,3 +162,8 @@ Para clonar un repostorio en Github, existen diversas opciones. Como se puede ob
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/27_git.PNG)
 
+Se debe de copiar el URL que aparece en el apartado de HTTPS
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/28_git.PNG)
+
+
