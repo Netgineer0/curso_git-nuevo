@@ -105,6 +105,7 @@ Ideal para proyectos que hacen despliegues continuos y colaboraciones ágiles
 
 
 **git push origin --delete feature/nombre:** Elimina rama remota
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/15_git.png)
 
 ## Etiquetas (tags)
