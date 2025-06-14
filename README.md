@@ -76,7 +76,9 @@ Permite ajustar o corregir el historial de cambios (commits) para mejorar la cla
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/14_git.png)
 
-**git checkout -b:** Rama nueva crear y cambiar de rama en un solo comando. Fusionar con git merge rama y resolución de conflictos manuales
+**git checkout:** Rama nueva crear y cambiar de rama en un solo comando. Fusionar con git merge rama y resolución de conflictos manuales
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/17_git.png)
 
 ### Trabajo con repositorios remotos
 
