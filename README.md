@@ -174,3 +174,8 @@ Para verificar el resultado simplemente nos dirigimos hacia el repositorio clona
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/30_git.PNG)
 
+## Migrar repositorio local
+Primero se creo un nuevo archivo en visual studio y se ejecutaron los siguientes comandos
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/31_git.PNG)
+
