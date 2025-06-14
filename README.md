@@ -5,6 +5,7 @@
 - **Global:** Afecta a todos los repositorios del usuario
 - **System:** Afecta a todos los usuarios del sistema
 
+![logo](https://github.com/Netgineer0/IntegradorDocumentacion/blob/main/logo.jpg)
 
 
 
