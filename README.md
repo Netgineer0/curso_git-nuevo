@@ -126,8 +126,13 @@ Oocurre cuando Git no puede combinar automáticamente los cambios de dos ramas p
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/18_git.PNG)
 
+Se indica que exixten conflictos dentro del archivo
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/19_git.PNG)
 
+En el archivo creado previamante en Visual Studio. Se pueden apreciar los comandos de conflicto, y sepuede observar de mejor manera en dónde se puede encontrar el conflicto
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/20_git.PNG)
 
 
 
