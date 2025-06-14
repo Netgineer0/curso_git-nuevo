@@ -36,11 +36,11 @@ Para crear un repositorio, nos establecemos en el directorio en el que creemos l
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/6_git.png)
 
 ### Git diff
-Muestra línea por línea qué ha cambiado entre dos versiones de un archivo o conjunto de archivos
+Muestra línea por línea qué ha cambiado entre dos versiones de un archivo o conjunto de archivos\
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/7_git.png)
 
 ### Cambios en los archivos
-**git diff --name-only** Es un comando útil para ver solo los nombres de los archivos que han cambiado, sin mostrar el contenido de los cambios
+**git diff --name-only** Es un comando útil para ver solo los nombres de los archivos que han cambiado, sin mostrar el contenido de los cambios\
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/8_git.png)
 
 ### Cambios en las líneas de los archivos
@@ -53,21 +53,24 @@ Para entender de forma más clara este subtema. Fue necesario realizar otro repo
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/11_git.png)
 Permite ajustar o corregir el historial de cambios (commits) para mejorar la claridad, corregir errores o deshacer acciones.
 ### Modificar un commit
-•	Corregir el mensaje
-•	Agregar archivos
+•	Corregir el mensaje\
+•	Agregar archivos\
 •	Ajustar el contenido 
 
-**git commit –amend:** Reescribe el último commit
+**git commit –amend:** Reescribe el último commit\
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/12_git.png)
 
 ### Historia y versiones
-**git log:** Visualiza historial de commits
-**git checkout:** Retrocede o permite mover entre ramas/commits
+**git log:** Visualiza historial de commits\
+**git checkout:** Retrocede o permite mover entre ramas/commits\
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/13_git.png)
 
 
 ### Ramas (branches)
-**git branch:** Listar, crear y eliminar ramas
+**git branch:** Listar, crear y eliminar ramas\
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/14_git.png)
 
 **git checkout -b:** Rama nueva crear y cambiar de rama en un solo comando. Fusionar con git merge rama y resolución de conflictos manuales
