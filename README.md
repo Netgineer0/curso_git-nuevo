@@ -134,7 +134,9 @@ En el archivo creado previamante en Visual Studio. Se pueden apreciar los comand
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/20_git.PNG)
 
+Al aceptar los cambios en la parte superior, y escribimos de nuevo el comando para visualizar los commits. Se puede observar que se resolvió el conflicto
 
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/22_git.PNG)
 
 
 
