@@ -138,5 +138,9 @@ Al aceptar los cambios en la parte superior, y escribimos de nuevo el comando pa
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/22_git.PNG)
 
+## Git ignore
+
+El archivo .gitignore le dice a Git qué archivos o carpetas debe ignorar, es decir, no incluir en el control de versiones (no se añadirán, rastrearán ni subirán al repositorio).
+Evita que archivos temporales, sensibles o generados automáticamente se suban al repositorio
 
 
