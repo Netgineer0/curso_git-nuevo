@@ -51,6 +51,7 @@ Sirve para mostrar las diferencias palabra por palabra, en lugar de línea por l
 Para entender de forma más clara este subtema. Fue necesario realizar otro repositorio, y hacer modificaciones dentro del archivo, se agregaron 5 commits. A continuación, se muestra el procedimiento que se siguió 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/10_git.png)
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/11_git.png)
+
 Permite ajustar o corregir el historial de cambios (commits) para mejorar la claridad, corregir errores o deshacer acciones.
 ### Modificar un commit
 •	Corregir el mensaje\
