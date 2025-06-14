@@ -151,3 +151,8 @@ Se crea un archivo llamado .gitignore. Como se muestra a continuación
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/24_git.PNG)
 
+Se puede visualizar los archivos que estan dentro de la carpeta. Pero al ejecutar los comandos solo se observan los que no se tienen ignorados
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/25_git.PNG)
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/26_git.PNG)
+
