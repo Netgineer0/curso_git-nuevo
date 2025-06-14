@@ -15,11 +15,11 @@
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/2_git.png)
 
 ### Crear repositorios
-Un repositorio es un espacio donde Git guarda toda la información de un proyecto \
--	Los archivos del proyecto \
-- Ramas (branches) \
--	Confirmaciones (commits) \
-Puede ser local o remoto \
+Un repositorio es un espacio donde Git guarda toda la información de un proyecto 
+-	Los archivos del proyecto 
+- Ramas (branches) 
+-	Confirmaciones (commits) 
+Puede ser local o remoto 
 Para crear un repositorio, nos establecemos en el directorio en el que creemos la carpeta, seguidamente con el comando cd nos dirigimos hacia ella y creamos una nueva carpeta en el que se logra el repositorio. Algunos de los comandos básicos en git, son los siguientes \
 
 
@@ -27,3 +27,6 @@ Para crear un repositorio, nos establecemos en el directorio en el que creemos l
 **git status**                       # Muestra estado de los archivos\
 **git add <archivo>**                # Prepara archivo para commit\
 **git commit -m "Mensaje"**          # Guarda cambios con mensaje
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/3_git.png)
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/4_git.png)
