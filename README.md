@@ -181,6 +181,11 @@ Primero se creo un nuevo archivo en visual studio y se ejecutaron los siguientes
 
 Nos dirigimos a GitHub y creamos un nuevo repositorio
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/32_git.PNG)
+
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/33_git.PNG)
+
+Y se debe de copiar el link que aparece ensegida de README
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/34_git.PNG)
 
 
