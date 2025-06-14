@@ -147,4 +147,7 @@ El primer paso para verificar este subtema. Se realizo un nuevo archivo de texto
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/23_git.PNG)
 
+Se crea un archivo llamado .gitignore. Como se muestra a continuación
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/24_git.PNG)
 
