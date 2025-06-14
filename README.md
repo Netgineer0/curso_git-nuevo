@@ -80,6 +80,8 @@ Permite ajustar o corregir el historial de cambios (commits) para mejorar la cla
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/17_git.PNG)
 
+Otra forma es **git switch**, la cual es la que se recomienda ya que es más segura
+
 ### Trabajo con repositorios remotos
 
 **git remote add origin:** <URL> Conecta repositorio local con uno remoto
