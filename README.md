@@ -126,7 +126,7 @@ Oocurre cuando Git no puede combinar automáticamente los cambios de dos ramas p
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/18_git.PNG)
 
-
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/19_git.PNG)
 
 
 
