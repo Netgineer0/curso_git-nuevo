@@ -166,4 +166,8 @@ Se debe de copiar el URL que aparece en el apartado de HTTPS
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/28_git.PNG)
 
+Nos dirigimos a la ventana de GIT, y ejecutamos lo siguiente:
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/29_git.PNG)
+
 
