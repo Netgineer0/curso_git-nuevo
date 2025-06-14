@@ -170,4 +170,7 @@ Nos dirigimos a la ventana de GIT, y ejecutamos lo siguiente:
 
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/29_git.PNG)
 
+Para verificar el resultado simplemente nos dirigimos hacia el repositorio clonado. El resultado se muestra a continuación
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/30_git.PNG)
 
