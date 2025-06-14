@@ -120,11 +120,11 @@ Ideal para proyectos que hacen despliegues continuos y colaboraciones ágiles
 **git reset --hard HEAD:** borra cambios locales no comprometidos.
 **git revert <hash_commit>:** Deshace un commit de forma segur
 
+## Merge conflicts
 
+Oocurre cuando Git no puede combinar automáticamente los cambios de dos ramas porque hay modificaciones incompatibles en las mismas líneas de un archivo o archivos. Es una situación común cuando estás haciendo un merge (fusión) entre ramas y Git no sabe cuál de los cambios mantener.
 
-
-
-
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/18_git.png)
 
 
 
