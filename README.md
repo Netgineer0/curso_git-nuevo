@@ -16,7 +16,7 @@
 
 ###Crear repositorios
 
-**git init**                         # Inicializa un repositorio en la carpeta actual
-**git status**                       # Muestra estado de los archivos
-**git add <archivo>**                # Prepara archivo para commit
+**git init**                         # Inicializa un repositorio en la carpeta actual\
+**git status**                       # Muestra estado de los archivos\
+**git add <archivo>**                # Prepara archivo para commit\
 **git commit -m "Mensaje"**          # Guarda cambios con mensaje
