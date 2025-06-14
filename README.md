@@ -156,3 +156,9 @@ Se puede visualizar los archivos que estan dentro de la carpeta. Pero al ejecuta
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/25_git.PNG)
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/26_git.PNG)
 
+## GIT CLONE
+
+Para clonar un repostorio en Github, existen diversas opciones. Como se puede observar en la siguiente imagen
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/27_git.PNG)
+
