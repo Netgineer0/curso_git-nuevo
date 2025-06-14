@@ -143,4 +143,8 @@ Al aceptar los cambios en la parte superior, y escribimos de nuevo el comando pa
 El archivo .gitignore le dice a Git qué archivos o carpetas debe ignorar, es decir, no incluir en el control de versiones (no se añadirán, rastrearán ni subirán al repositorio).
 Evita que archivos temporales, sensibles o generados automáticamente se suban al repositorio
 
+El primer paso para verificar este subtema. Se realizo un nuevo archivo de texto, se agrego a git con respectio commit, y con el comando ls-tree -r --name-only se visualizo que se había gregado recientemente
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/23_git.PNG)
+
 
