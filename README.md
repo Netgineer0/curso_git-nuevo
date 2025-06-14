@@ -190,3 +190,8 @@ Y se debe de copiar el link que aparece ensegida de README
 
 Al copiar y dar enter en la ventana de Git automaticamente estara apareciendo el repositorio que previamente habiamos creado en Github
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/35_git.PNG)
+
+
+Se deben de copiar y pegar los dos comandos siguientes, para el tercer comando se da enter y se abre una ventana emergente como la siguiente
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/36_git.PNG)
+
