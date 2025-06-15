@@ -195,3 +195,6 @@ Al copiar y dar enter en la ventana de Git automaticamente estara apareciendo el
 Se deben de copiar y pegar los dos comandos siguientes, para el tercer comando se da enter y se abre una ventana emergente como la siguiente
 ![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/36_git.PNG)
 
+Al dirigirnos nuevamente a Github, y actualizar la página se puede observar que los archivos que se habian creado anteriormente, se subieron en el repositorio
+
+![git](https://github.com/Netgineer0/curso_git-nuevo/blob/main/37_git.PNG)
